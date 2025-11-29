@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🖖
 
 <!--
 **oluijks/oluijks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ### About Me
 
 I'm Olaf, a 52-year-old developer from the Netherlands, married to Luba and usually found somewhere behind a terminal. I love open source, programming, and getting lost in reading and writing poetry. When I'm not tinkering with code, I'm probably walking along the beach with our bull terrier, Bogdan, listening to the sea and thinking about the next thing I'll build and never quite finish.
-
 
 ```ts
 type Stack =
@@ -71,3 +70,5 @@ export const olaf = {
 } satisfies DevProfile;
 
 ```
+
+[🌐 Blog](https://blog.luba.dev) · [🔐 GPG key](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x107D2CD87A4A2E21)
